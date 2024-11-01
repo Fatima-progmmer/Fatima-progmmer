@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatima-progmmer
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...Java Script and DAta structure,alogrithm
+- 🌱 I’m currently learning ...Angular and Networking
 - 📫 How to reach me ...gmail :kashmirirajpoot128@gmail.com
 
 <!---
