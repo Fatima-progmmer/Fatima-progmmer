@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Fatima-progmmer
+ # Hi👋
+ I’m Tanzeela Fatima
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...Angular and Networking
 - 📫 How to reach me ...gmail :kashmirirajpoot128@gmail.com
