@@ -1,4 +1,4 @@
-# Hi there, I'm Fatima! 👋
+# Hi there, I'm Tanzeela! 👋
 
 Welcome to my GitHub profile! I'm a passionate programmer and developer always looking to learn new technologies and improve my skills.
 
