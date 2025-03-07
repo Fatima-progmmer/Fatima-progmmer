@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AngularJS**
 
-- 👯 I’m looking to collaborate on **Al Ahsas website**
+- 👯 I’m looking to collaborate on **Your web projects**
 
 - 💬 Ask me about **Website, Computer network**
 
