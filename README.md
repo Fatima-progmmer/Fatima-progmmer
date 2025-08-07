@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanzeela Fatima</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer always eager to explore new technologies and build innovative projects.</h3>
 
-- 🌱 I’m currently learning **AngularJS**
-- 👯 I’m open to collaborate on **your web development projects**
-- 💬 Ask me about **Web Development, Computer Networks**
+- 🌱 I’m currently learning **Kotlin**
+- 👯 I’m open to collaborate on **your web development & C++ projects**
+- 💬 Ask me about **Web Development, Computer Networks & C++**
 - 📫 Reach me at **codequeen765@gmail.com**
 - ⚡ Fun fact: **I'm an introvert who loves solving complex problems silently!**
 
